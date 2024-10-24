@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "4ujXDK9mpK3tvz4PnXsopQC53PRLxpKRC4mkkogUmS9q",
+  "symbol": "WUSD",
+  "name": "Wrapped USD",
+  "decimals": 6,
+  "logoURI": "https://github.com/username/repository/raw/main/path-to-your-logo.png",
+  "tags": ["stablecoin"]
+}
